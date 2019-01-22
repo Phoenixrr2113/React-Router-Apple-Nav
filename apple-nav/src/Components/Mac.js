@@ -1,7 +1,5 @@
 import React from 'react';
 
-const Mac = () => {
-	return <div>Mac</div>;
-};
+const Mac = () => <div className="mac-page">Mac</div>;
 
 export default Mac;

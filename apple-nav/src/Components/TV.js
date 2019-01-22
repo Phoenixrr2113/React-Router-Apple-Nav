@@ -1,7 +1,5 @@
 import React from 'react';
 
-const TV = () => {
-	return <div>TV</div>;
-};
+const TV = () => <div className="tv-page">TV</div>;
 
 export default TV;

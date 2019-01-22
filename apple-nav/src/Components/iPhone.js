@@ -1,7 +1,5 @@
 import React from 'react';
 
-const iPhone = () => {
-	return <div>iPhone</div>;
-};
+const iPhone = () => <div className="iphone-page">iPhone</div>;
 
 export default iPhone;

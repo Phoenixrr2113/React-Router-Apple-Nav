@@ -1,7 +1,5 @@
 import React from 'react';
 
-const Music = () => {
-	return <div>Music</div>;
-};
+const Music = () => <div className="music-page">Music</div>;
 
 export default Music;

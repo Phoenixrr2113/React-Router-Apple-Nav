@@ -1,7 +1,5 @@
 import React from 'react';
 
-const Support = () => {
-	return <div>Support</div>;
-};
+const Support = () => <div className="support-page">Support</div>;
 
 export default Support;

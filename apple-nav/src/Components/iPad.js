@@ -1,7 +1,5 @@
 import React from 'react';
 
-const iPad = () => {
-	return <div>iPad</div>;
-};
+const iPad = () => <div className="ipad-page">iPad</div>;
 
 export default iPad;
